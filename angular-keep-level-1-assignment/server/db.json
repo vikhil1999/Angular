@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Workouts",
+      "text": "Shall do at 6 am"
+    },
+    {
+      "id": 2,
+      "title": " Session",
+      "text": " do at 9 am"
+    }
+    {
+      "title": "Vikhil",
+      "text": "Vikhilreddy",
+      "id": 3
+    }
+  ]
+}
